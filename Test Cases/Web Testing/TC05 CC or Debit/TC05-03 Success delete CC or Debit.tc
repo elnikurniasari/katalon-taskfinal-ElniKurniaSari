@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05-03 Success delete CC or Debit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>06fee37f-fc77-498e-8115-80a514b972c8</testCaseGuid>
+</TestCaseEntity>

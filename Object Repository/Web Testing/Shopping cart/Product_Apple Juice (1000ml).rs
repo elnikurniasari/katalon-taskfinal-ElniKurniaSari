@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Product_Apple Juice (1000ml)</name>
+   <tag></tag>
+   <elementGuidId>00634064-6d77-4f9f-845f-257be87a402d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>mat-cell.mat-cell.cdk-cell.cdk-column-product.mat-column-product.ng-star-inserted</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout'])[1]/preceding::mat-cell[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Apple Juice (1000ml)&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-cell</value>
+      <webElementGuid>d21c19f8-1ff2-478f-b618-fd10ab8cb766</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>cell</value>
+      <webElementGuid>69c35b61-396e-4b2c-afd0-6c05752047fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxflex</name>
+      <type>Main</type>
+      <value>35%</value>
+      <webElementGuid>bb095218-7446-4167-8ee6-41b3afac7bbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxflex.lt-md</name>
+      <type>Main</type>
+      <value>30%</value>
+      <webElementGuid>8564ed92-7594-45a9-bb95-edc3ac891290</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-cell cdk-cell cdk-column-product mat-column-product ng-star-inserted</value>
+      <webElementGuid>e017943e-88b2-4be1-9daa-3ad4bc62f5bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Apple Juice (1000ml) </value>
+      <webElementGuid>326f1107-fba3-4a58-bedb-c32123ab610d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;fontawesome-i2svg-active fontawesome-i2svg-complete&quot;]/body[@class=&quot;mat-app-background bluegrey-lightgreen-theme&quot;]/app-root[1]/div[@class=&quot;mat-typography&quot;]/mat-sidenav-container[@class=&quot;mat-drawer-container mat-sidenav-container&quot;]/mat-sidenav-content[@class=&quot;mat-drawer-content mat-sidenav-content ng-star-inserted&quot;]/app-basket[@class=&quot;ng-star-inserted&quot;]/mat-card[@class=&quot;mat-card mat-focus-indicator mat-elevation-z6&quot;]/app-purchase-basket[1]/mat-table[@class=&quot;mat-table cdk-table&quot;]/mat-row[@class=&quot;mat-row cdk-row ng-star-inserted&quot;]/mat-cell[@class=&quot;mat-cell cdk-cell cdk-column-product mat-column-product ng-star-inserted&quot;]</value>
+      <webElementGuid>945cee62-2939-4d1e-86fe-c0114c44f095</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(elnik234@gmail.com)'])[1]/following::mat-cell[2]</value>
+      <webElementGuid>31fd7eb6-72c5-4ea0-b01a-7babace17db1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Price: 1.99¤'])[1]/preceding::mat-cell[4]</value>
+      <webElementGuid>2ae81b2f-dd76-49ba-8121-d0e0170ecdd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout'])[1]/preceding::mat-cell[4]</value>
+      <webElementGuid>8e3dc48e-0f1d-46de-9ac9-842f1562ad4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Apple Juice (1000ml)']/parent::*</value>
+      <webElementGuid>9296c29f-c68b-4d5a-88ba-86c44cee0669</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-cell[2]</value>
+      <webElementGuid>73fbd099-b5bb-4284-b0de-01666a83b489</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-cell[(text() = ' Apple Juice (1000ml) ' or . = ' Apple Juice (1000ml) ')]</value>
+      <webElementGuid>bb21ba11-fe20-43e0-b218-04cd73d06abb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

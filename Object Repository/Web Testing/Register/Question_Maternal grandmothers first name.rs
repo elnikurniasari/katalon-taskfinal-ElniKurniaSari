@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Question_Maternal grandmothers first name</name>
+   <tag></tag>
+   <elementGuidId>80634107-01c8-418c-bfd1-29067187efd1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-8']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-8 > span.mat-option-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=option[name=&quot;Maternal grandmother's first name?&quot;i] >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>215a46e1-96f5-44dc-90ae-d152399ba4cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>f5b0866c-43b6-48bf-9baf-64cbb0176ae6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Maternal grandmother's first name? </value>
+      <webElementGuid>0eda9834-dbca-4be8-a3dc-bf26f3469ecf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-8&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>aa71c568-5bf3-4449-8107-bb60097e6b97</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-8']/span</value>
+      <webElementGuid>8dc4e881-a08a-4b3d-9cbf-137bb8c6ad3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name of your favorite pet?'])[1]/preceding::span[2]</value>
+      <webElementGuid>f49420b2-fac6-4c13-b3ee-8c2e08a04729</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[5]/span</value>
+      <webElementGuid>002427e1-076f-472a-8ced-8bc07dbe0bea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = concat(&quot; Maternal grandmother&quot; , &quot;'&quot; , &quot;s first name? &quot;) or . = concat(&quot; Maternal grandmother&quot; , &quot;'&quot; , &quot;s first name? &quot;))]</value>
+      <webElementGuid>713a8cf0-af79-448e-94e0-ba4a65a60bff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

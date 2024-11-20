@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02-02 Failed login with invalid email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9201be1c-96ec-4e6d-9194-815f770a30ea</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ca7c7df8-1421-46f1-a08c-8e2660876b24</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3fbdb6cd-df09-48f4-abef-ae9f62e06cec</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'elnik234@gmail'</defaultValue>
+      <description></description>
+      <id>ca7c7df8-1421-46f1-a08c-8e2660876b24</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Pw8KcgeYuc4='</defaultValue>
+      <description></description>
+      <id>3fbdb6cd-df09-48f4-abef-ae9f62e06cec</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

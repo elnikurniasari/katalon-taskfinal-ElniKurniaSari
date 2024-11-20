@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Stagging API</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://restful-booker.herokuapp.com'</initValue>
+      <name>Base_URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'3e0a8b31cfc1bf2'</initValue>
+      <name>token</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

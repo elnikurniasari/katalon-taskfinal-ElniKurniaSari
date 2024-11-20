@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Radio_Select Address</name>
+   <tag></tag>
+   <elementGuidId>c37bee16-d5ab-40fd-a67a-54ef1e3c86a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='card']/app-address/mat-card/mat-table/mat-row/mat-cell</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>mat-cell.mat-cell.cdk-cell.cdk-column-Selection.mat-column-Selection.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-cell</value>
+      <webElementGuid>a94d3070-49e4-4e22-bf94-672d79193a3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>cell</value>
+      <webElementGuid>a32e8e97-be51-40fb-8323-6ac4a6c386af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fxflex</name>
+      <type>Main</type>
+      <value>20%</value>
+      <webElementGuid>12f81cb6-e72c-46d3-b96b-3061ef671af2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-cell cdk-cell cdk-column-Selection mat-column-Selection ng-star-inserted</value>
+      <webElementGuid>a7277078-fc57-4cbe-87e7-a9713ce31181</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> </value>
+      <webElementGuid>8a6d492e-4a17-44e2-9d02-f11b5a092694</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;card&quot;)/app-address[1]/mat-card[@class=&quot;mat-card mat-focus-indicator mat-elevation-z6&quot;]/mat-table[@class=&quot;mat-table cdk-table ng-star-inserted&quot;]/mat-row[@class=&quot;mat-row cdk-row ng-star-inserted&quot;]/mat-cell[@class=&quot;mat-cell cdk-cell cdk-column-Selection mat-column-Selection ng-star-inserted&quot;]</value>
+      <webElementGuid>c221200a-84e8-4638-b9c2-cd47a7299feb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='card']/app-address/mat-card/mat-table/mat-row/mat-cell</value>
+      <webElementGuid>aa16b29e-5e6a-4657-9ea7-4449d194e254</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select an address'])[1]/following::mat-cell[1]</value>
+      <webElementGuid>fbe1aba8-8b23-4ccc-b1f6-4ffd657a85fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EN'])[1]/following::mat-cell[1]</value>
+      <webElementGuid>973e2d37-1606-42bf-8727-c234300633ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='q'])[1]/preceding::mat-cell[1]</value>
+      <webElementGuid>cbc07a41-0f79-44a0-9de5-d4e661cbb8ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cjscfsdvds, csdcs, sdfsf, 2536'])[1]/preceding::mat-cell[2]</value>
+      <webElementGuid>2058d912-3dc8-4235-9af7-aa0333279e86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-cell</value>
+      <webElementGuid>7f266694-8157-4f1a-8b68-4ba675e6eabd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-cell[(text() = ' ' or . = ' ')]</value>
+      <webElementGuid>1b20470d-69ce-48a5-80bd-c7d9e5f8d501</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

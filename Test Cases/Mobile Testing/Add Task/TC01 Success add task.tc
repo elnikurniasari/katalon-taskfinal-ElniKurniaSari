@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01 Success add task</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9429bb94-c768-41dc-9a94-360997053ff1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3a2fc0c7-dd8c-471d-b8f4-55f173e4bff8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>af624ae8-5c14-4a53-8b88-1fcb1e3c67e5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Katalon Testing'</defaultValue>
+      <description></description>
+      <id>3a2fc0c7-dd8c-471d-b8f4-55f173e4bff8</id>
+      <masked>false</masked>
+      <name>Title_task</name>
+   </variable>
+   <variable>
+      <defaultValue>'Final task'</defaultValue>
+      <description></description>
+      <id>af624ae8-5c14-4a53-8b88-1fcb1e3c67e5</id>
+      <masked>false</masked>
+      <name>Task</name>
+   </variable>
+</TestCaseEntity>

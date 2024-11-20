@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04 Get Booking ID</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>de4684db-8a2e-4c58-84de-c56e7865aa17</testCaseGuid>
+</TestCaseEntity>

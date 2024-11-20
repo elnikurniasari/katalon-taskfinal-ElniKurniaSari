@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Payment Method</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>8f410f75-48c0-4cbc-a293-f6d34a4f0674</testSuiteGuid>
+   <testCaseLink>
+      <guid>2a3c7d69-21b8-46cb-9b85-1ac2e7bf1916</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Web Testing/TC05 CC or Debit/TC05-01 Success Add CC or Debit from Payment Option Page</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>080c9826-a386-49f3-92c4-447bc625b0f2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8749d2be-37d8-4ac0-9109-df399141420a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f0dbea18-fc0e-4b23-8d2c-5eeaab2e4305</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>01481ba1-830a-4f89-ba0b-17ff001550f3</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3121f048-66b0-4b73-8647-ffca78bf3815</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Web Testing/TC05 CC or Debit/TC05-02 Add CC or Debit without input name</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>aa261cf9-a9a5-45e8-94ee-089241921151</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>54f6ae2f-2c5f-4841-89b9-67c172a5dfc8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>cc04eb48-fe7a-4517-b397-93e39ea8c186</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d0c4b09b-b632-4a7a-9cc3-6ebcb9f5a24b</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a0b7e09b-0553-48ef-b726-c06661187da6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Web Testing/TC05 CC or Debit/TC05-03 Success delete CC or Debit</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

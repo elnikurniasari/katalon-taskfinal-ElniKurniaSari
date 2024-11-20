@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03-01 Success add product to the basket cart</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0846184a-1ed6-4d47-ad8c-4fbfe813dd73</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2db48c06-0e44-4527-924d-1bb2b47dfafa</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a1f85663-207f-431c-89b7-0003a616ab1d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'elnik234@gmail.com'</defaultValue>
+      <description></description>
+      <id>2db48c06-0e44-4527-924d-1bb2b47dfafa</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Pw8KcgeYuc4='</defaultValue>
+      <description></description>
+      <id>a1f85663-207f-431c-89b7-0003a616ab1d</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

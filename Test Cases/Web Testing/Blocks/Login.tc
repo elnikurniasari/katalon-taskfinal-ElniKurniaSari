@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7bc30c3d-bb87-4465-b969-d5c5eb0e62d9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>31f618b2-b815-481a-a681-b9a5ac003252</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>05e29148-147d-4cef-a413-1a860a0334eb</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'elnik234@gmail.com'</defaultValue>
+      <description></description>
+      <id>31f618b2-b815-481a-a681-b9a5ac003252</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Pw8KcgeYuc4='</defaultValue>
+      <description></description>
+      <id>05e29148-147d-4cef-a413-1a860a0334eb</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

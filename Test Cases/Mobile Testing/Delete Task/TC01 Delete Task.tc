@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01 Delete Task</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>47507892-a24b-45e9-94c6-8236d79e9816</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>249fde26-b287-4e8e-85cd-049141c1177b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b98a6820-a848-485e-a8e1-2d82b4798542</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Katalon Testing'</defaultValue>
+      <description></description>
+      <id>249fde26-b287-4e8e-85cd-049141c1177b</id>
+      <masked>false</masked>
+      <name>Title_Task</name>
+   </variable>
+   <variable>
+      <defaultValue>'Final Task'</defaultValue>
+      <description></description>
+      <id>b98a6820-a848-485e-a8e1-2d82b4798542</id>
+      <masked>false</masked>
+      <name>Task</name>
+   </variable>
+</TestCaseEntity>

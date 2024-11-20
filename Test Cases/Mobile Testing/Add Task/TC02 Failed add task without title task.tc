@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02 Failed add task without title task</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dbabd3e7-2bb2-430e-a61c-d2fc4bd7cbd9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>89cc834e-9020-425c-af59-89791ccd16f8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>15285171-6857-4dd1-bda7-54717f3baa0f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>89cc834e-9020-425c-af59-89791ccd16f8</id>
+      <masked>false</masked>
+      <name>Title_task</name>
+   </variable>
+   <variable>
+      <defaultValue>'Final task'</defaultValue>
+      <description></description>
+      <id>15285171-6857-4dd1-bda7-54717f3baa0f</id>
+      <masked>false</masked>
+      <name>Task</name>
+   </variable>
+</TestCaseEntity>

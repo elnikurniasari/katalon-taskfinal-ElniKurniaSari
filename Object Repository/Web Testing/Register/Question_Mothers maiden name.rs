@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Question_Mothers maiden name</name>
+   <tag></tag>
+   <elementGuidId>227a6cbf-64f3-4b70-8eb9-887229b98314</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-5']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-5 > span.mat-option-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Mother's maiden name?&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2640dbe3-7a00-4b84-8ea8-b7ac6291925e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>7bb54364-56fc-411f-a41d-27df45c1c8c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Mother's maiden name? </value>
+      <webElementGuid>a454025b-3bac-4cce-a8be-936367d5fc8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-5&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>c326e74f-9e6c-45b0-9744-723528457fc0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-5']/span</value>
+      <webElementGuid>1aa1e4ab-c38f-4b99-a9e6-dc7f8fd4feda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your eldest siblings middle name?'])[1]/following::span[1]</value>
+      <webElementGuid>9e932086-b8fd-4d5a-89a3-94873438724b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Already a customer?'])[1]/following::span[2]</value>
+      <webElementGuid>c9a40f67-a43d-460b-bc16-e90db28ea80d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[2]/span</value>
+      <webElementGuid>ede018a4-1cc4-4aa6-bebd-c9e1a46cf021</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = concat(&quot; Mother&quot; , &quot;'&quot; , &quot;s maiden name? &quot;) or . = concat(&quot; Mother&quot; , &quot;'&quot; , &quot;s maiden name? &quot;))]</value>
+      <webElementGuid>038c26ab-72dd-4cb3-9ace-14535f202a2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

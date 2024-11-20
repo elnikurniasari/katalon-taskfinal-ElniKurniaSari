@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02 Failed add task without task</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4bea757e-c30b-4b9f-9823-6fbce9933b0a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>460b1bb4-2b7f-467e-b7ef-174dca11a639</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9b5429e4-d1d0-481e-9169-09f8918e0895</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Katalon Testing'</defaultValue>
+      <description></description>
+      <id>460b1bb4-2b7f-467e-b7ef-174dca11a639</id>
+      <masked>false</masked>
+      <name>Title_task</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9b5429e4-d1d0-481e-9169-09f8918e0895</id>
+      <masked>false</masked>
+      <name>Task</name>
+   </variable>
+</TestCaseEntity>

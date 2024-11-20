@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03 Create Booking with firstname null</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>65f86057-80cc-4342-a4b5-199e54db997b</testCaseGuid>
+</TestCaseEntity>

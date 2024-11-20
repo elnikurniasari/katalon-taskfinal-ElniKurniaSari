@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC06-01 Success choose address</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>37dcbeae-277c-41a5-a734-1c8b8d4fc39b</testCaseGuid>
+</TestCaseEntity>

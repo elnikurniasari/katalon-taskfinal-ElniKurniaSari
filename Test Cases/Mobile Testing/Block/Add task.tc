@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add task</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>99b97776-b231-4d1a-8add-295a89bdbb1b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4cc2ce6c-dfa0-433f-939f-addf53dd13c7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7afe6c99-a721-4195-b8c2-9956fef16f52</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Katalon Testing'</defaultValue>
+      <description></description>
+      <id>4cc2ce6c-dfa0-433f-939f-addf53dd13c7</id>
+      <masked>false</masked>
+      <name>Title_task</name>
+   </variable>
+   <variable>
+      <defaultValue>'Final task'</defaultValue>
+      <description></description>
+      <id>7afe6c99-a721-4195-b8c2-9956fef16f52</id>
+      <masked>false</masked>
+      <name>Task</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC06-03 Success choose payment method</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1658ed61-1c0d-48fc-9afa-60c69d9e1af0</testCaseGuid>
+</TestCaseEntity>

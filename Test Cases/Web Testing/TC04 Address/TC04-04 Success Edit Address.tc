@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04-04 Success Edit Address</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fddbefd3-132f-4414-93a3-4f088213ca20</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>52574ec6-b3e3-4464-8fb5-f585bc8d1c58</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Jl. B No.100 Jakarta'</defaultValue>
+      <description></description>
+      <id>52574ec6-b3e3-4464-8fb5-f585bc8d1c58</id>
+      <masked>false</masked>
+      <name>address</name>
+   </variable>
+</TestCaseEntity>

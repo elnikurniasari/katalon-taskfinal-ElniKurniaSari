@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Question_Fathers birth date (MMDDYY)</name>
+   <tag></tag>
+   <elementGuidId>cb3e1e46-31ff-4ee4-9d85-df43e66b6474</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//mat-option[@id='mat-option-7']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#mat-option-7 > span.mat-option-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=option[name=&quot;Father's birth date? (MM/DD/YY)&quot;i] >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8371d584-5b6f-4f0e-9ff6-52d1090d7b8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-option-text</value>
+      <webElementGuid>56da46ee-fb88-4c42-b567-bf3cc5ded51c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Father's birth date? (MM/DD/YY) </value>
+      <webElementGuid>9b2f6f97-8bd6-411b-a67d-a14c54a7a96b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mat-option-7&quot;)/span[@class=&quot;mat-option-text&quot;]</value>
+      <webElementGuid>8b9c79c2-2183-40c2-bc15-8e11950543b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//mat-option[@id='mat-option-7']/span</value>
+      <webElementGuid>4dfd31c2-9f7e-4062-b714-8e3afc52e3c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-option[4]/span</value>
+      <webElementGuid>f008ab6e-3c9c-4e0b-a891-0a4411dbaef7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = concat(&quot; Father&quot; , &quot;'&quot; , &quot;s birth date? (MM/DD/YY) &quot;) or . = concat(&quot; Father&quot; , &quot;'&quot; , &quot;s birth date? (MM/DD/YY) &quot;))]</value>
+      <webElementGuid>b7ed45f8-2cc2-400c-b97c-be660df41b55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

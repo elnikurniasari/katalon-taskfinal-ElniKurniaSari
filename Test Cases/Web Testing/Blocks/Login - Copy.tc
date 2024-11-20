@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login - Copy</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d8072196-ead9-41b1-beb8-d5f5e67c1054</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ddb2c81d-fba3-442b-a3f6-efce61d54e10</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d8c6717f-074a-4536-8b52-5120c58913e9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'elnik234@gmail.com'</defaultValue>
+      <description></description>
+      <id>ddb2c81d-fba3-442b-a3f6-efce61d54e10</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'Pw8KcgeYuc4='</defaultValue>
+      <description></description>
+      <id>d8c6717f-074a-4536-8b52-5120c58913e9</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

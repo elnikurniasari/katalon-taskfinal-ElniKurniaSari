@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Edit Address</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b8bfe87f-0989-4ff8-8b58-5409820bea55</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>69a77e40-ad55-4acf-8d89-9c0946813eee</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Jl. B No.100 Jakarta'</defaultValue>
+      <description></description>
+      <id>69a77e40-ad55-4acf-8d89-9c0946813eee</id>
+      <masked>false</masked>
+      <name>Address</name>
+   </variable>
+</TestCaseEntity>

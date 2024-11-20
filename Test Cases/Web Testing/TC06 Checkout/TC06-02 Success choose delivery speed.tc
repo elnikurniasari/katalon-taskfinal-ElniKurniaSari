@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC06-02 Success choose delivery speed</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>beba9af8-ee2e-4bc2-bcdc-038d0930e6b4</testCaseGuid>
+</TestCaseEntity>

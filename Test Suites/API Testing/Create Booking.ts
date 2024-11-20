@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Create Booking</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>031ebc3b-210f-4d12-944d-c5af30efdcd3</testSuiteGuid>
+   <testCaseLink>
+      <guid>d886c364-34d2-4836-a3b5-561206410b6f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/API Testing/Booking/TC02 Create Booking with valid data</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5f530b05-70ea-4082-9cb2-d31c9ee25aa7</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/API Testing/Add Booking</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>5f530b05-70ea-4082-9cb2-d31c9ee25aa7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>firstname</value>
+         <variableId>dfa5f3bf-3835-4d80-a183-5ee67daf130c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5f530b05-70ea-4082-9cb2-d31c9ee25aa7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>lastname</value>
+         <variableId>784583a8-31b8-4474-996e-5bff99b0dec4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5f530b05-70ea-4082-9cb2-d31c9ee25aa7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>totalprice</value>
+         <variableId>7d062894-d03d-400e-b075-c495d90f640f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5f530b05-70ea-4082-9cb2-d31c9ee25aa7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>DepositePaid</value>
+         <variableId>7cb548c3-9bae-4c70-8292-7c6d0940080e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5f530b05-70ea-4082-9cb2-d31c9ee25aa7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>checkin</value>
+         <variableId>ce2e103e-638d-4b82-8f1a-c3e5b49d7daf</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5f530b05-70ea-4082-9cb2-d31c9ee25aa7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>checkout</value>
+         <variableId>d773fffd-c6c8-4bed-8041-dbb329775b62</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>eeeefeb3-7953-4864-9a0c-4a07dd614b83</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/API Testing/Booking/TC03 Create Booking with firstname null</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>

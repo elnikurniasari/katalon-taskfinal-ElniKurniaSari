@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add New Address</name>
+   <tag></tag>
+   <elementGuidId>fb0a4f6d-fe55-4cf4-a0ea-9d0702e49b72</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.btn.btn-new-address.mat-button.mat-raised-button.mat-button-base.mat-primary.cdk-focused.cdk-keyboard-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Add a new address&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0147b124-3fc1-4c54-9d45-7e1083228a90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>primary</value>
+      <webElementGuid>e7e93078-508d-45cd-98e2-5e649c807c98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Add a new address</value>
+      <webElementGuid>cc0bf71a-884f-4aaa-96e3-638024d5b5ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>routerlink</name>
+      <type>Main</type>
+      <value>/address/create</value>
+      <webElementGuid>ec51ef1b-0616-42e1-a805-7502d873e424</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator btn btn-new-address mat-button mat-raised-button mat-button-base mat-primary cdk-focused cdk-keyboard-focused</value>
+      <webElementGuid>3eab605e-9de7-4424-914b-41689c8e6ba4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>df3f57d0-4e38-406b-9ec5-5b6e20f7c85e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> add Add New Address</value>
+      <webElementGuid>813015cd-3572-447e-91d5-62bf3c39a4af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;card&quot;)/app-address[1]/mat-card[@class=&quot;mat-card mat-focus-indicator mat-elevation-z6&quot;]/div[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;mat-focus-indicator btn btn-new-address mat-button mat-raised-button mat-button-base mat-primary cdk-focused cdk-keyboard-focused&quot;]</value>
+      <webElementGuid>f30c0c72-5366-40ce-b546-7e362fc21ce1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='card']/app-address/mat-card/div/button</value>
+      <webElementGuid>fb4a2b1c-97d9-4eaf-a8aa-269d60f31781</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='indonesia'])[1]/following::button[1]</value>
+      <webElementGuid>4b7d8b91-6203-40a5-9809-5ad638b2d018</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='jsckdsajdhcs, vdd, fsfsf, 36472'])[1]/following::button[1]</value>
+      <webElementGuid>cbef1cae-72f7-4c54-8deb-5c2d7eb44856</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/preceding::button[1]</value>
+      <webElementGuid>641de988-9af4-45e3-99a5-5e12e1d1fee4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button</value>
+      <webElementGuid>a11cbfde-33ea-4373-92ec-b31b288f341a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' add Add New Address' or . = ' add Add New Address')]</value>
+      <webElementGuid>16533dbd-51c8-411f-871b-e6a36d719e7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

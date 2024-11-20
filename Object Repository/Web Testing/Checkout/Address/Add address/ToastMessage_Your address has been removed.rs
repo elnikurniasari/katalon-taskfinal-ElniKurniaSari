@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ToastMessage_Your address has been removed</name>
+   <tag></tag>
+   <elementGuidId>0e5b5d1a-aad9-4d4e-b61a-f7ca703a18eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-9']/snack-bar-container/div/div/simple-snack-bar/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.mat-simple-snack-bar-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Your address has been removed.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ce04308f-7c05-4bc6-a885-36c7ea671539</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-simple-snack-bar-content</value>
+      <webElementGuid>fc16d451-a897-4c3d-ac01-b3b5778bed47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Your address has been removed.</value>
+      <webElementGuid>330cc8e3-4204-4fe8-a27f-b40496047bdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-9&quot;)/snack-bar-container[@class=&quot;mat-snack-bar-container ng-tns-c9-24 ng-trigger ng-trigger-state confirmBar mat-snack-bar-center ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c9-24&quot;]/div[@class=&quot;ng-tns-c9-24&quot;]/simple-snack-bar[@class=&quot;mat-simple-snackbar ng-star-inserted&quot;]/span[@class=&quot;mat-simple-snack-bar-content&quot;]</value>
+      <webElementGuid>da9dd1a4-52b8-4780-9891-35fa70cfcd04</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-9']/snack-bar-container/div/div/simple-snack-bar/span</value>
+      <webElementGuid>5ba21d17-d324-4e14-8672-dfb364d73a0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New Address'])[1]/following::span[3]</value>
+      <webElementGuid>357f3bbb-a203-4dee-9047-a61b79a71924</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My saved addresses'])[1]/following::span[5]</value>
+      <webElementGuid>1df1e9ff-2b1e-4027-90c0-fa69d4b18813</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='X'])[1]/preceding::span[1]</value>
+      <webElementGuid>3d6722a8-a549-4fc0-a86e-e14402bcbc45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Your address has been removed.']/parent::*</value>
+      <webElementGuid>0b8892bc-4524-443d-ab83-3d7ffa9c1fd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//simple-snack-bar/span</value>
+      <webElementGuid>35225e52-ff86-436b-9664-2a9943d0e596</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Your address has been removed.' or . = 'Your address has been removed.')]</value>
+      <webElementGuid>c0fac35e-c643-4a33-a30e-04129d90d54a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

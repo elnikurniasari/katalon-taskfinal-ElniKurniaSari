@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Place your order and pay</name>
+   <tag></tag>
+   <elementGuidId>2d91b21d-56b1-4f29-ba7b-d9c939b8b9eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#checkoutButton</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='checkoutButton']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Complete your purchase&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0ec4cf56-72ba-4351-97a2-d1d08cbf78b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>primary</value>
+      <webElementGuid>62123768-f4b7-417f-9b2c-92bf2523ea47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Complete your purchase</value>
+      <webElementGuid>203e2d9d-9644-4c09-8be0-eba0a398bc92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>checkoutButton</value>
+      <webElementGuid>13237799-d078-4a02-83ca-4af6963af4bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator btn btn-pay mat-button mat-raised-button mat-button-base mat-primary cdk-focused cdk-keyboard-focused</value>
+      <webElementGuid>d0ad2725-4c26-462a-9984-0c6fc467348d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> monetization_on Place your order and pay</value>
+      <webElementGuid>6164cba0-22ac-4683-b786-81ef1d854f88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkoutButton&quot;)</value>
+      <webElementGuid>a2cbe9f9-e3be-4b2d-9502-99fae1301c99</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='checkoutButton']</value>
+      <webElementGuid>c7cb5a92-1281-4ee7-a9fe-9da432477d8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Price'])[1]/following::button[1]</value>
+      <webElementGuid>ffa6ce16-abb2-4982-a9ec-2c2b861d09df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promotion'])[1]/following::button[1]</value>
+      <webElementGuid>833b441b-15f3-4500-a787-cb467308fbfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You will gain 0 Bonus Points from this order!'])[1]/preceding::button[1]</value>
+      <webElementGuid>e88139cc-34d7-44dc-aa5c-9ea78bfecb54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-card/button</value>
+      <webElementGuid>f24ac5ab-4582-44c7-aa38-a62d216308c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'checkoutButton' and (text() = ' monetization_on Place your order and pay' or . = ' monetization_on Place your order and pay')]</value>
+      <webElementGuid>ffa0cb2e-a7d5-49b9-8a5d-9288fcb0b4fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
