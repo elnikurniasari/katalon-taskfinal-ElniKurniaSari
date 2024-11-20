@@ -1,12 +1,65 @@
 # katalon-taskfinal-ElniKurniaSari
+This repository contains automated web,api, and mobile tests for final project of Test Aplikasi Kamu. The goal of this project is to ensure the functionality, and reliability of the web, api and mobile application.
 
-## Requirements for WEB,API and MOBILE testing
+## Requirements for WEB, API and MOBILE testing
 * Install [Katalon Studio](https://katalon.com)
 * Install [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/downloads/#java11?er=221886)
 * Register a [Github](https://github.com/) account
 * [API documentation](https://restful-booker.herokuapp.com/apidoc/) for API Testing
 * URL for [Web Testing](https://juice-shop.herokuapp.com/)
-* 
+* [Java Development Kit (JDK)](https://www.oracle.com/id/java/technologies/downloads/)
+* [Node Js](https://nodejs.org/en) for mobile testing
+* Appium latest version
+* Android device/emulator
+
+## 🏃🏻🏃‍♀️ How to Run Tests
+
+* Open the Project in Katalon Studio
+* Launch Katalon Studio.
+* Create test case
+* Run Individual Test Cases
+* Navigate to the Test Cases folder.
+* Select a test case, and click the Run button.
+* Run Test Suites
+* Navigate to the Test Suites folder.
+* Select a suite, and click the Run button to execute all included test cases.
+* Run Test Suites Collection
+* Navigate to the Test Suites Collection folder.
+* Select a suite collection, and click the Run button to execute all included test suite.
+
+# WEB Testing
+## Project Structure
+Folder Test Cases
+* Blocks
+* TC01 Register 
+* TC02 Login
+* TC03 Shopping cart
+* TC04 Address
+* TC05 CC or Debit
+* TC06 Checkout
+* TC07 Order history
+
+Folder Object Repository
+* Checkout
+  * Address
+  * Delivery Speed
+  * Payment
+* History
+* Login
+* Register
+* Shopping Cart
+  
+Test Suites
+* Address
+* E2E Testing
+* History
+* Login
+* Payment Method
+* Register
+
+Global Variable
+* Base_URL
+* Token
 
 # API Testing
 ## Project Structure
