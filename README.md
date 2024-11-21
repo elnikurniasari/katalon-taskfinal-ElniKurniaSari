@@ -30,7 +30,6 @@ This repository contains automated web,api, and mobile tests for final project o
 # WEB Testing
 ## Project Structure
 Folder Test Cases
-* Blocks
 * TC01 Register 
 * TC02 Login
 * TC03 Shopping cart
@@ -58,8 +57,7 @@ Test Suites
 * Register
 
 Global Variable
-* Base_URL
-* Token
+* BaseURL_Web
 
 # API Testing
 ## Project Structure
@@ -188,5 +186,18 @@ HTTP/1.1 200 OK
 ]
 ```
 
+# Mobile Testing
+## Project Structure
+Folder Test Cases
+* Add Task
+  * TC01 Success add task
+  * TC02 Failed add task without task
+  * TC02 Failed add task without title task 
+* Delete Task
+  *TC01 Delete Task
+
+Folder Object Repository
+* Add Task
+* Delete Task
 
 
